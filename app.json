@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "NaijaMapAlat",
-    "slug": "NaijaMapAlat",
+    "name": "NaijaMap Alert",
+    "slug": "naijamap-alert",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -16,9 +16,15 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.example.naijamapalert",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
+      },
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyA_EvgeACJisub-XxlkOyo0G2QwKkl6TIEY"
+        }
       }
     },
     "web": {
