@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1088631221182",
+    "project_id": "naijamapalert-b024c",
+    "storage_bucket": "naijamapalert-b024c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088631221182:android:0a9fce04921f49a556e7ef",
+        "android_client_info": {
+          "package_name": "com.example.naijamapalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088631221182-51tiknbbrimbrq3h648vrgapcqf8th4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.naijamapalert",
+            "certificate_hash": "2db41cef58756014748dff33c5230d71d81a7da6"
+          }
+        },
+        {
+          "client_id": "1088631221182-2i24oii4cd3vuet2t50u6usg1evu3j31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZNlndnsp57K83ltnqogbMakRJWRIeeBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088631221182-2i24oii4cd3vuet2t50u6usg1evu3j31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
